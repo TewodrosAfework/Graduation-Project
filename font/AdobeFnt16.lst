@@ -1,0 +1,6896 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BlackItalic
+FamilyName:Arial Black
+StyleName:Italic
+FullName:Arial Black Italic
+MenuName:Arial Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ARBLI__.TTF
+DataFormat:sfntData
+FileLength:65544
+FileModTime:877835566
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Black Italic
+NameArray:0,Win,1,Arial Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\arialbd_0 (2).ttf
+DataFormat:sfntData
+FileLength:352224
+FileModTime:1208217600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\arialbd_0.ttf
+DataFormat:sfntData
+FileLength:352224
+FileModTime:1208217600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldItalicMT
+FamilyName:Arial
+StyleName:Bold Italic
+FullName:Arial Bold Italic
+MenuName:Arial
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\arialbi_0.ttf
+DataFormat:sfntData
+FileLength:226748
+FileModTime:1208217600
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Bold Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+FullName:Arial Italic
+MenuName:Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ariali_0.ttf
+DataFormat:sfntData
+FileLength:207808
+FileModTime:1208217600
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Arial Italic
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-BoldItalic
+FamilyName:Arial
+StyleName:Narrow
+FullName:Arial Narrow Bold Italic
+MenuName:Arial Narrow
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ARIALNBI_0.TTF
+DataFormat:sfntData
+FileLength:178316
+FileModTime:1152912692
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Arial Narrow Bold Italic
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Bold
+FamilyName:Arial
+StyleName:Narrow
+FullName:Arial Narrow Bold
+MenuName:Arial Narrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ARIALNB_0.TTF
+DataFormat:sfntData
+FileLength:178864
+FileModTime:1152912692
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Arial Narrow Bold
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow-Italic
+FamilyName:Arial
+StyleName:Narrow
+FullName:Arial Narrow Italic
+MenuName:Arial Narrow
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ARIALNI_0.TTF
+DataFormat:sfntData
+FileLength:179368
+FileModTime:1152912692
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,4,Arial Narrow Italic
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialNarrow
+FamilyName:Arial
+StyleName:Narrow
+FullName:Arial Narrow
+MenuName:Arial Narrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ARIALN_0.TTF
+DataFormat:sfntData
+FileLength:173936
+FileModTime:1152912690
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,Arial Narrow
+NameArray:0,Win,1,Arial Narrow
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\arial_0.ttf
+DataFormat:sfntData
+FileLength:367112
+FileModTime:1208217600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial
+StyleName:Black
+FullName:Arial Black
+MenuName:Arial Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\ariblk_0.ttf
+DataFormat:sfntData
+FileLength:118832
+FileModTime:1208217600
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\cinema\Font\fontawesome-webfont.eot
+FileModTime:1372264876
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\cinema\Font\fontawesome-webfont.svg
+FileModTime:1372264876
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+FullName:FontAwesome Regular
+MenuName:FontAwesome
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\fontawesome-webfont.ttf
+DataFormat:sfntData
+FileLength:79076
+FileModTime:1372264876
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\cinema\Font\fontawesome-webfont.woff
+FileModTime:1372264876
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+FullName:FontAwesome
+MenuName:FontAwesome
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\FontAwesome.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:61896
+FileModTime:1372264876
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,FontAwesome
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRounded-BoldCondObl
+FamilyName:Helvetica Rounded
+StyleName:Bold Condensed Oblique
+FullName:Helvetica Rounded Bold Condensed Oblique
+MenuName:HelveticaRounded BoldCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:39877
+FileModTime:675482418
+WeightClass:700
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaRounded-BoldCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBCO___0.PFM
+FileLength:1351
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRounded-BoldCond
+FamilyName:Helvetica Rounded
+StyleName:Bold Condensed
+FullName:Helvetica Rounded Bold Condensed
+MenuName:HelveticaRounded BoldCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30444
+FileModTime:675482386
+WeightClass:700
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaRounded-BoldCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBC____0.PFM
+FileLength:1348
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRounded-BlackObl
+FamilyName:Helvetica Rounded
+StyleName:Black Oblique
+FullName:Helvetica Rounded Black Oblique
+MenuName:HelveticaRounded Bold
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBLO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:39333
+FileModTime:675482342
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaRounded-BlackObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBLO___0.PFM
+FileLength:1336
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRounded-Black
+FamilyName:Helvetica Rounded
+StyleName:Black
+FullName:Helvetica Rounded Black
+MenuName:HelveticaRounded Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBL____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30281
+FileModTime:675482296
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaRounded-Black
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBL____0.PFM
+FileLength:1333
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRounded-BoldObl
+FamilyName:Helvetica Rounded
+StyleName:Bold Oblique
+FullName:Helvetica Rounded Bold Oblique
+MenuName:HelveticaRounded Bold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBO____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:36427
+FileModTime:675482272
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaRounded-BoldObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEBO____0.PFM
+FileLength:1235
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRounded-Bold
+FamilyName:Helvetica Rounded
+StyleName:Bold
+FullName:Helvetica Rounded Bold
+MenuName:HelveticaRounded Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEB_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28263
+FileModTime:675482216
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaRounded-Bold
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HEB_____0.PFM
+FileLength:1232
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Conth
+FamilyName:Helvetica-Conth
+StyleName:Regular
+FullName:Helvetica-Conth
+MenuName:Helvetica-Conth
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HELVCOND.TTF
+DataFormat:sfntData
+FileLength:28472
+FileModTime:1214113480
+WeightClass:5
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica-Conth
+NameArray:0,Win,1,Helvetica-Conth
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaInserat-Roman-SemiBold
+FamilyName:HelveticaInserat-Roman-SemiBold
+StyleName:Regular
+FullName:HelveticaInserat-Roman-SemiBold
+MenuName:HelveticaInserat-Roman-SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HELVET14.TTF
+DataFormat:sfntData
+FileLength:42472
+FileModTime:1214113480
+WeightClass:5
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaInserat-Roman-SemiBold
+NameArray:0,Win,1,HelveticaInserat-Roman-SemiBold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Medium
+FullName:Helvetica
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvet77_0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28777
+FileModTime:1044311816
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvet77_0.pfm
+FileLength:1676
+FileModTime:1044315418
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Condensed-Thin
+FamilyName:Helvetica-Condensed-Thin
+StyleName:Regular
+FullName:Helvetica-Condensed-Thin
+MenuName:Helvetica-Condensed-Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HELVETI3.TTF
+DataFormat:sfntData
+FileLength:28476
+FileModTime:1214113482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica-Condensed-Thin
+NameArray:0,Win,1,Helvetica-Condensed-Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaInserat-Roman-SemiB
+FamilyName:HelveticaInserat-Roman-SemiB
+StyleName:Regular
+FullName:HelveticaInserat-Roman-SemiB
+MenuName:HelveticaInserat-Roman-SemiB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HELVETI4.TTF
+DataFormat:sfntData
+FileLength:28600
+FileModTime:1214113482
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaInserat-Roman-SemiB
+NameArray:0,Win,1,HelveticaInserat-Roman-SemiB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Condensed-Light-Light
+FamilyName:Helvetica-Condensed-Light-Light
+StyleName:Regular
+FullName:Helvetica-Condensed-Light-Light
+MenuName:Helvetica-Condensed-Light-Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HELVETI5.TTF
+DataFormat:sfntData
+FileLength:45340
+FileModTime:1214113484
+WeightClass:5
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica-Condensed-Light-Light
+NameArray:0,Win,1,Helvetica-Condensed-Light-Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaCndObl-Thin
+FamilyName:HelveticaCndObl-Thin
+StyleName:Regular
+FullName:HelveticaCndObl-Thin
+MenuName:HelveticaCndObl-Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HELVETI8_0.TTF
+DataFormat:sfntData
+FileLength:52084
+FileModTime:786948360
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HelveticaCndObl-Thin
+NameArray:0,Win,1,HelveticaCndObl-Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica_cyr-BoldOblique
+FamilyName:Helvetica
+StyleName:Bold Oblique
+FullName:Helvetica Cyrillic Bold Oblique
+MenuName:Helvetica
+StyleBits:3
+FamilyNameNative:
+StyleNameNative:Bold Oblique
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Bold Oblique.Ttf
+DataFormat:sfntData
+FileLength:43866
+FileModTime:946735198
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Cyrillic Bold Oblique
+NameArray:0,Win,1,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica_cyr-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica Cyrillic Bold
+MenuName:Helvetica
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Bold_0.Ttf
+DataFormat:sfntData
+FileLength:42898
+FileModTime:946735198
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Cyrillic Bold
+NameArray:0,Win,1,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaCE-Bold
+FamilyName:Helvetica CE
+StyleName:Bold
+FullName:Helvetica CE Bold
+MenuName:Helvetica CE
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica CE Bold.ttf
+DataFormat:sfntData
+FileLength:52640
+FileModTime:987716056
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica CE Bold
+NameArray:0,Win,1,Helvetica CE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaCE-Regular
+FamilyName:Helvetica CE
+StyleName:Regular
+FullName:Helvetica CE Regular
+MenuName:Helvetica CE
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica CE Regular.ttf
+DataFormat:sfntData
+FileLength:52412
+FileModTime:987716056
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica CE Regular
+NameArray:0,Win,1,Helvetica CE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaCyr-BoldInclined
+FamilyName:HelveticaCyr Upright
+StyleName:Bold Italic
+FullName:Helvetica Cyrillic Bold Inclined
+MenuName:HelveticaCyr Upright
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Cyrillic Bold Inclined.ttf
+DataFormat:sfntData
+FileLength:69420
+FileModTime:1031348584
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Cyrillic Bold Inclined
+NameArray:0,Win,1,HelveticaCyr Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaCyr-Inclined
+FamilyName:HelveticaCyr Upright
+StyleName:Italic
+FullName:Helvetica Cyrillic Inclined
+MenuName:HelveticaCyr Upright
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Cyrillic Inclined.ttf
+DataFormat:sfntData
+FileLength:69832
+FileModTime:1031348584
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Cyrillic Inclined
+NameArray:0,Win,1,HelveticaCyr Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaCyr-Upright
+FamilyName:HelveticaCyr Upright
+StyleName:Regular
+FullName:Helvetica Cyrillic Upright
+MenuName:HelveticaCyr Upright
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Cyrillic Upright.ttf
+DataFormat:sfntData
+FileLength:68068
+FileModTime:1031348584
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Cyrillic Upright
+NameArray:0,Win,1,HelveticaCyr Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaGreek-BdInclined
+FamilyName:HelveticaGreek Upright
+StyleName:Bold Italic
+FullName:Helvetica Greek Bold Inclined
+MenuName:HelveticaGreek Upright
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Greek Bold Inclined.ttf
+DataFormat:sfntData
+FileLength:59688
+FileModTime:1031348584
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Greek Bold Inclined
+NameArray:0,Win,1,HelveticaGreek Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaGreek-Bold
+FamilyName:HelveticaGreek Upright
+StyleName:Bold
+FullName:Helvetica Greek Bold
+MenuName:HelveticaGreek Upright
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Greek Bold.ttf
+DataFormat:sfntData
+FileLength:58712
+FileModTime:1031348584
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Greek Bold
+NameArray:0,Win,1,HelveticaGreek Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaGreek-Inclined
+FamilyName:HelveticaGreek Upright
+StyleName:Italic
+FullName:Helvetica Greek Inclined
+MenuName:HelveticaGreek Upright
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Greek Inclined.ttf
+DataFormat:sfntData
+FileLength:60720
+FileModTime:1031348584
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Greek Inclined
+NameArray:0,Win,1,HelveticaGreek Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaGreek-Upright
+FamilyName:HelveticaGreek Upright
+StyleName:Regular
+FullName:Helvetica Greek Upright
+MenuName:HelveticaGreek Upright
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Greek Upright.ttf
+DataFormat:sfntData
+FileLength:59168
+FileModTime:1031348584
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Greek Upright
+NameArray:0,Win,1,HelveticaGreek Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaInseratCyr-Upright
+FamilyName:HelveticaInseratCyr Upright
+StyleName:Regular
+FullName:Helvetica Inserat Cyrillic Upright
+MenuName:HelveticaInseratCyr Upright
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Inserat Cyrillic Upright.ttf
+DataFormat:sfntData
+FileLength:66476
+FileModTime:1031348584
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Inserat Cyrillic Upright
+NameArray:0,Win,1,HelveticaInseratCyr Upright
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaInseratLT-Roman
+FamilyName:HelveticaInserat LT
+StyleName:Regular
+FullName:Helvetica Inserat LT
+MenuName:HelveticaInserat LT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Inserat LT.ttf
+DataFormat:sfntData
+FileLength:56072
+FileModTime:1031275520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Inserat LT
+NameArray:0,Win,1,HelveticaInserat LT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ExtBlackCondObl
+FamilyName:HelveticaNeue LT 107 XBlkCn
+StyleName:Oblique
+FullName:Helvetica LT 107 Extra Black Condensed Oblique
+MenuName:HelveticaNeue LT 107 XBlkCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 107 Extra Black Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:40608
+FileModTime:1031275528
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 107 Extra Black Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 107 XBlkCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ExtBlackCond
+FamilyName:HelveticaNeue LT 107 XBlkCn
+StyleName:Regular
+FullName:Helvetica LT 107 Extra Black Condensed
+MenuName:HelveticaNeue LT 107 XBlkCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 107 Extra Black Condensed.ttf
+DataFormat:sfntData
+FileLength:40628
+FileModTime:1031275528
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 107 Extra Black Condensed
+NameArray:0,Win,1,HelveticaNeue LT 107 XBlkCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-UltraLigExtObl
+FamilyName:HelveticaNeue LT 23 UltLtEx
+StyleName:Oblique
+FullName:Helvetica LT 23 Ultra Light Extended Oblique
+MenuName:HelveticaNeue LT 23 UltLtEx
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 23 Ultra Light Extended Oblique.ttf
+DataFormat:sfntData
+FileLength:40464
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 23 Ultra Light Extended Oblique
+NameArray:0,Win,1,HelveticaNeue LT 23 UltLtEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-UltraLigExt
+FamilyName:HelveticaNeue LT 23 UltLtEx
+StyleName:Regular
+FullName:Helvetica LT 23 Ultra Light Extended
+MenuName:HelveticaNeue LT 23 UltLtEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 23 Ultra Light Extended.ttf
+DataFormat:sfntData
+FileLength:39780
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 23 Ultra Light Extended
+NameArray:0,Win,1,HelveticaNeue LT 23 UltLtEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-UltraLight
+FamilyName:HelveticaNeue LT 25 UltLight
+StyleName:Regular
+FullName:Helvetica LT 25 Ultra Light
+MenuName:HelveticaNeue LT 25 UltLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 25 Ultra Light.ttf
+DataFormat:sfntData
+FileLength:48480
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 25 Ultra Light
+NameArray:0,Win,1,HelveticaNeue LT 25 UltLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-UltraLightItal
+FamilyName:HelveticaNeue LT 25 UltLight
+StyleName:Italic
+FullName:Helvetica LT 26 Ultra Light Italic
+MenuName:HelveticaNeue LT 25 UltLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 26 Ultra Light Italic.ttf
+DataFormat:sfntData
+FileLength:51172
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 26 Ultra Light Italic
+NameArray:0,Win,1,HelveticaNeue LT 25 UltLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-UltraLigCondObl
+FamilyName:HelveticaNeue LT 27 UltLtCn
+StyleName:Oblique
+FullName:Helvetica LT 27 Ultra Light Condensed Oblique
+MenuName:HelveticaNeue LT 27 UltLtCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 27 Ultra Light Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:40984
+FileModTime:1031275528
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 27 Ultra Light Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 27 UltLtCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-UltraLigCond
+FamilyName:HelveticaNeue LT 27 UltLtCn
+StyleName:Regular
+FullName:Helvetica LT 27 Ultra Light Condensed
+MenuName:HelveticaNeue LT 27 UltLtCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 27 Ultra Light Condensed.ttf
+DataFormat:sfntData
+FileLength:39640
+FileModTime:1031275528
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 27 Ultra Light Condensed
+NameArray:0,Win,1,HelveticaNeue LT 27 UltLtCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ThinExtObl
+FamilyName:HelveticaNeue LT 33 ThinEx
+StyleName:Oblique
+FullName:Helvetica LT 33 Thin Extended Oblique
+MenuName:HelveticaNeue LT 33 ThinEx
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 33 Thin Extended Oblique.ttf
+DataFormat:sfntData
+FileLength:40508
+FileModTime:1031275524
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 33 Thin Extended Oblique
+NameArray:0,Win,1,HelveticaNeue LT 33 ThinEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ThinExt
+FamilyName:HelveticaNeue LT 33 ThinEx
+StyleName:Regular
+FullName:Helvetica LT 33 Thin Extended
+MenuName:HelveticaNeue LT 33 ThinEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 33 Thin Extended.ttf
+DataFormat:sfntData
+FileLength:40000
+FileModTime:1031275524
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 33 Thin Extended
+NameArray:0,Win,1,HelveticaNeue LT 33 ThinEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Thin
+FamilyName:HelveticaNeue LT 35 Thin
+StyleName:Regular
+FullName:Helvetica LT 35 Thin
+MenuName:HelveticaNeue LT 35 Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 35 Thin.ttf
+DataFormat:sfntData
+FileLength:49120
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 35 Thin
+NameArray:0,Win,1,HelveticaNeue LT 35 Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ThinItalic
+FamilyName:HelveticaNeue LT 35 Thin
+StyleName:Italic
+FullName:Helvetica LT 36 Thin Italic
+MenuName:HelveticaNeue LT 35 Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 36 Thin Italic.ttf
+DataFormat:sfntData
+FileLength:48244
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 36 Thin Italic
+NameArray:0,Win,1,HelveticaNeue LT 35 Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ThinCondObl
+FamilyName:HelveticaNeue LT 37 ThinCn
+StyleName:Oblique
+FullName:Helvetica LT 37 Thin Condensed Oblique
+MenuName:HelveticaNeue LT 37 ThinCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 37 Thin Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:40196
+FileModTime:1031275526
+WeightClass:100
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 37 Thin Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 37 ThinCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ThinCond
+FamilyName:HelveticaNeue LT 37 ThinCn
+StyleName:Regular
+FullName:Helvetica LT 37 Thin Condensed
+MenuName:HelveticaNeue LT 37 ThinCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 37 Thin Condensed.ttf
+DataFormat:sfntData
+FileLength:40152
+FileModTime:1031275526
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 37 Thin Condensed
+NameArray:0,Win,1,HelveticaNeue LT 37 ThinCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-LightExtObl
+FamilyName:HelveticaNeue LT 43 LightEx
+StyleName:Oblique
+FullName:Helvetica LT 43 Light Extended Oblique
+MenuName:HelveticaNeue LT 43 LightEx
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 43 Light Extended Oblique.ttf
+DataFormat:sfntData
+FileLength:40536
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 43 Light Extended Oblique
+NameArray:0,Win,1,HelveticaNeue LT 43 LightEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-LightExt
+FamilyName:HelveticaNeue LT 43 LightEx
+StyleName:Regular
+FullName:Helvetica LT 43 Light Extended
+MenuName:HelveticaNeue LT 43 LightEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 43 Light Extended.ttf
+DataFormat:sfntData
+FileLength:39820
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 43 Light Extended
+NameArray:0,Win,1,HelveticaNeue LT 43 LightEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Light
+FamilyName:HelveticaNeue LT 45 Light
+StyleName:Regular
+FullName:Helvetica LT 45 Light
+MenuName:HelveticaNeue LT 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 45 Light.ttf
+DataFormat:sfntData
+FileLength:38280
+FileModTime:1031275524
+WeightClass:3
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 45 Light
+NameArray:0,Win,1,HelveticaNeue LT 45 Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-LightItalic
+FamilyName:HelveticaNeue LT 45 Light
+StyleName:Italic
+FullName:Helvetica LT 46 Light Italic
+MenuName:HelveticaNeue LT 45 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 46 Light Italic.ttf
+DataFormat:sfntData
+FileLength:49932
+FileModTime:1031275524
+WeightClass:3
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 46 Light Italic
+NameArray:0,Win,1,HelveticaNeue LT 45 Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-LightCondObl
+FamilyName:HelveticaNeue LT 47 LightCn
+StyleName:Oblique
+FullName:Helvetica LT 47 Light Condensed Oblique
+MenuName:HelveticaNeue LT 47 LightCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 47 Light Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:39688
+FileModTime:1031275526
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 47 Light Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 47 LightCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-LightCond
+FamilyName:HelveticaNeue LT 47 LightCn
+StyleName:Regular
+FullName:Helvetica LT 47 Light Condensed
+MenuName:HelveticaNeue LT 47 LightCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 47 Light Condensed.ttf
+DataFormat:sfntData
+FileLength:39168
+FileModTime:1031275526
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 47 Light Condensed
+NameArray:0,Win,1,HelveticaNeue LT 47 LightCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-ExtendedObl
+FamilyName:HelveticaNeue LT 53 Ex
+StyleName:Oblique
+FullName:Helvetica LT 53 Extended Oblique
+MenuName:HelveticaNeue LT 53 Ex
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 53 Extended Oblique.ttf
+DataFormat:sfntData
+FileLength:40012
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 53 Extended Oblique
+NameArray:0,Win,1,HelveticaNeue LT 53 Ex
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Extended
+FamilyName:HelveticaNeue LT 53 Ex
+StyleName:Regular
+FullName:Helvetica LT 53 Extended
+MenuName:HelveticaNeue LT 53 Ex
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 53 Extended.ttf
+DataFormat:sfntData
+FileLength:39372
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 53 Extended
+NameArray:0,Win,1,HelveticaNeue LT 53 Ex
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Roman
+FamilyName:HelveticaNeue LT 55 Roman
+StyleName:Regular
+FullName:Helvetica LT 55 Roman
+MenuName:HelveticaNeue LT 55 Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 55 Roman.ttf
+DataFormat:sfntData
+FileLength:96804
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica 55 Roman
+NameArray:0,Mac,4,Helvetica LT 55 Roman
+NameArray:0,Win,1,HelveticaNeue LT 55 Roman
+NameArray:0,Win,16,HelveticaNeue LT 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Italic
+FamilyName:HelveticaNeue LT 55 Roman
+StyleName:Italic
+FullName:Helvetica LT 56 Italic
+MenuName:HelveticaNeue LT 55 Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 56 Italic.ttf
+DataFormat:sfntData
+FileLength:62924
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica 56 Italic
+NameArray:0,Mac,4,Helvetica LT 56 Italic
+NameArray:0,Win,1,HelveticaNeue LT 55 Roman
+NameArray:0,Win,16,HelveticaNeue LT 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-CondensedObl
+FamilyName:HelveticaNeue LT 57 Cn
+StyleName:Oblique
+FullName:Helvetica LT 57 Condensed Oblique
+MenuName:HelveticaNeue LT 57 Cn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 57 Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:40032
+FileModTime:1031275526
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 57 Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 57 Cn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Condensed
+FamilyName:HelveticaNeue LT 57 Cn
+StyleName:Regular
+FullName:Helvetica LT 57 Condensed
+MenuName:HelveticaNeue LT 57 Cn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 57 Condensed.ttf
+DataFormat:sfntData
+FileLength:39520
+FileModTime:1031275526
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 57 Condensed
+NameArray:0,Win,1,HelveticaNeue LT 57 Cn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-MediumExtObl
+FamilyName:HelveticaNeue LT 63 MdEx
+StyleName:Oblique
+FullName:Helvetica LT 63 Medium Extended Oblique
+MenuName:HelveticaNeue LT 63 MdEx
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 63 Medium Extended Oblique.ttf
+DataFormat:sfntData
+FileLength:39824
+FileModTime:1031275524
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 63 Medium Extended Oblique
+NameArray:0,Win,1,HelveticaNeue LT 63 MdEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-MediumExt
+FamilyName:HelveticaNeue LT 63 MdEx
+StyleName:Regular
+FullName:Helvetica LT 63 Medium Extended
+MenuName:HelveticaNeue LT 63 MdEx
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 63 Medium Extended.ttf
+DataFormat:sfntData
+FileLength:41068
+FileModTime:1031275524
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 63 Medium Extended
+NameArray:0,Win,1,HelveticaNeue LT 63 MdEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Medium
+FamilyName:HelveticaNeue LT 65 Medium
+StyleName:Regular
+FullName:Helvetica LT 65 Medium
+MenuName:HelveticaNeue LT 65 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 65 Medium.ttf
+DataFormat:sfntData
+FileLength:99964
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica 65 Medium
+NameArray:0,Mac,4,Helvetica LT 65 Medium
+NameArray:0,Win,1,HelveticaNeue LT 65 Medium
+NameArray:0,Win,16,HelveticaNeue LT 65 Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-MediumItalic
+FamilyName:HelveticaNeue LT 65 Medium
+StyleName:Italic
+FullName:Helvetica LT 66 Medium Italic
+MenuName:HelveticaNeue LT 65 Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 66 Medium Italic.ttf
+DataFormat:sfntData
+FileLength:63140
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica 66 Medium Italic
+NameArray:0,Mac,4,Helvetica LT 66 Medium Italic
+NameArray:0,Win,1,HelveticaNeue LT 65 Medium
+NameArray:0,Win,16,HelveticaNeue LT 65 Medium
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-MediumCondObl
+FamilyName:HelveticaNeue LT 67 MdCn
+StyleName:Oblique
+FullName:Helvetica LT 67 Medium Condensed Oblique
+MenuName:HelveticaNeue LT 67 MdCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 67 Medium Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:40252
+FileModTime:1031275526
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT 67 Medium Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 67 MdCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-MediumCond
+FamilyName:HelveticaNeue LT 67 MdCn
+StyleName:Regular
+FullName:Helvetica LT 67 Medium Condensed
+MenuName:HelveticaNeue LT 67 MdCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 67 Medium Condensed.ttf
+DataFormat:sfntData
+FileLength:39952
+FileModTime:1031275526
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 67 Medium Condensed
+NameArray:0,Win,1,HelveticaNeue LT 67 MdCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BoldExt
+FamilyName:HelveticaNeue LT 53 Ex
+StyleName:Bold
+FullName:Helvetica LT 73 Bold Extended
+MenuName:HelveticaNeue LT 53 Ex
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 73 Bold Extended.ttf
+DataFormat:sfntData
+FileLength:38992
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 73 Bold Extended
+NameArray:0,Win,1,HelveticaNeue LT 53 Ex
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BoldOutline
+FamilyName:HelveticaNeue LT 75 BdOutline
+StyleName:Regular
+FullName:Helvetica LT 75 Bold Outline
+MenuName:HelveticaNeue LT 75 BdOutline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 75 Bold Outline.ttf
+DataFormat:sfntData
+FileLength:160616
+FileModTime:1031275528
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 75 Bold Outline
+NameArray:0,Win,1,HelveticaNeue LT 75 BdOutline
+NameArray:0,Win,16,HelveticaNeue LT 75 BdOutline
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Bold
+FamilyName:HelveticaNeue LT 55 Roman
+StyleName:Bold
+FullName:Helvetica LT 75 Bold
+MenuName:HelveticaNeue LT 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 75 Bold.ttf
+DataFormat:sfntData
+FileLength:60020
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica 75 Bold
+NameArray:0,Mac,4,Helvetica LT 75 Bold
+NameArray:0,Win,1,HelveticaNeue LT 55 Roman
+NameArray:0,Win,16,HelveticaNeue LT 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BoldItalic
+FamilyName:HelveticaNeue LT 55 Roman
+StyleName:Bold Italic
+FullName:Helvetica LT 76 Bold Italic
+MenuName:HelveticaNeue LT 55 Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 76 Bold Italic.ttf
+DataFormat:sfntData
+FileLength:57288
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica 76 Bold Italic
+NameArray:0,Mac,4,Helvetica LT 76 Bold Italic
+NameArray:0,Win,1,HelveticaNeue LT 55 Roman
+NameArray:0,Win,16,HelveticaNeue LT 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BoldCond
+FamilyName:HelveticaNeue LT 57 Cn
+StyleName:Bold
+FullName:Helvetica LT 77 Bold Condensed
+MenuName:HelveticaNeue LT 57 Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 77 Bold Condensed.ttf
+DataFormat:sfntData
+FileLength:39228
+FileModTime:1031275526
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 77 Bold Condensed
+NameArray:0,Win,1,HelveticaNeue LT 57 Cn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-HeavyExt
+FamilyName:HelveticaNeue LT 63 MdEx
+StyleName:Heavy
+FullName:Helvetica LT 83 Heavy Extended
+MenuName:HelveticaNeue LT 63 MdEx
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 83 Heavy Extended.ttf
+DataFormat:sfntData
+FileLength:38752
+FileModTime:1031275524
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 83 Heavy Extended
+NameArray:0,Win,1,HelveticaNeue LT 63 MdEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-HeavyCond
+FamilyName:HelveticaNeue LT 67 MdCn
+StyleName:Heavy
+FullName:Helvetica LT 87 Heavy Condensed
+MenuName:HelveticaNeue LT 67 MdCn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 87 Heavy Condensed.ttf
+DataFormat:sfntData
+FileLength:39792
+FileModTime:1031275528
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 87 Heavy Condensed
+NameArray:0,Win,1,HelveticaNeue LT 67 MdCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BlackExtObl
+FamilyName:HelveticaNeue LT 93 BlackEx
+StyleName:Oblique
+FullName:Helvetica LT 93 Black Extended Oblique
+MenuName:HelveticaNeue LT 93 BlackEx
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 93 Black Extended Oblique.ttf
+DataFormat:sfntData
+FileLength:39456
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 93 Black Extended Oblique
+NameArray:0,Win,1,HelveticaNeue LT 93 BlackEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BlackExt
+FamilyName:HelveticaNeue LT 93 BlackEx
+StyleName:Regular
+FullName:Helvetica LT 93 Black Extended
+MenuName:HelveticaNeue LT 93 BlackEx
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 93 Black Extended.ttf
+DataFormat:sfntData
+FileLength:38864
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 93 Black Extended
+NameArray:0,Win,1,HelveticaNeue LT 93 BlackEx
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-Black
+FamilyName:HelveticaNeue LT 95 Black
+StyleName:Regular
+FullName:Helvetica LT 95 Black
+MenuName:HelveticaNeue LT 95 Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 95 Black.ttf
+DataFormat:sfntData
+FileLength:45832
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 95 Black
+NameArray:0,Win,1,HelveticaNeue LT 95 Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BlackItalic
+FamilyName:HelveticaNeue LT 95 Black
+StyleName:Italic
+FullName:Helvetica LT 96 Black Italic
+MenuName:HelveticaNeue LT 95 Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 96 Black Italic.ttf
+DataFormat:sfntData
+FileLength:45780
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 96 Black Italic
+NameArray:0,Win,1,HelveticaNeue LT 95 Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BlackCondObl
+FamilyName:HelveticaNeue LT 97 BlackCn
+StyleName:Oblique
+FullName:Helvetica LT 97 Black Condensed Oblique
+MenuName:HelveticaNeue LT 97 BlackCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 97 Black Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:40112
+FileModTime:1031275528
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 97 Black Condensed Oblique
+NameArray:0,Win,1,HelveticaNeue LT 97 BlackCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueLT-BlackCond
+FamilyName:HelveticaNeue LT 97 BlackCn
+StyleName:Regular
+FullName:Helvetica LT 97 Black Condensed
+MenuName:HelveticaNeue LT 97 BlackCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT 97 Black Condensed.ttf
+DataFormat:sfntData
+FileLength:39580
+FileModTime:1031275528
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT 97 Black Condensed
+NameArray:0,Win,1,HelveticaNeue LT 97 BlackCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-BlackOblique
+FamilyName:Helvetica LT Black
+StyleName:Italic
+FullName:Helvetica LT Black Oblique
+MenuName:Helvetica LT Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Black Oblique.ttf
+DataFormat:sfntData
+FileLength:53408
+FileModTime:1031275518
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Black Oblique
+NameArray:0,Win,1,Helvetica LT Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Black
+FamilyName:Helvetica LT Black
+StyleName:Regular
+FullName:Helvetica LT Black
+MenuName:Helvetica LT Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Black.ttf
+DataFormat:sfntData
+FileLength:66824
+FileModTime:1031275518
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Black
+NameArray:0,Win,1,Helvetica LT Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-BoldOblique
+FamilyName:Helvetica LT
+StyleName:Bold Italic
+FullName:Helvetica LT Bold Oblique
+MenuName:Helvetica LT
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Bold Oblique.ttf
+DataFormat:sfntData
+FileLength:58384
+FileModTime:1031275522
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Bold Oblique
+NameArray:0,Win,1,Helvetica LT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Bold
+FamilyName:Helvetica LT
+StyleName:Bold
+FullName:Helvetica LT Bold
+MenuName:Helvetica LT
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Bold.ttf
+DataFormat:sfntData
+FileLength:74636
+FileModTime:1031275522
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Bold
+NameArray:0,Win,1,Helvetica LT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Compressed
+FamilyName:Helvetica LT Compressed
+StyleName:Regular
+FullName:Helvetica LT Compressed
+MenuName:Helvetica LT Compressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Compressed.ttf
+DataFormat:sfntData
+FileLength:53976
+FileModTime:1031275520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Compressed
+NameArray:0,Win,1,Helvetica LT Compressed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-BlackObl
+FamilyName:Helvetica LT CondensedBlack
+StyleName:Italic
+FullName:Helvetica LT Condensed Black Oblique
+MenuName:Helvetica LT CondensedBlack
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Black Oblique.ttf
+DataFormat:sfntData
+FileLength:53976
+FileModTime:1031275520
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Condensed Black Oblique
+NameArray:0,Win,1,Helvetica LT CondensedBlack
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-Black
+FamilyName:Helvetica LT CondensedBlack
+StyleName:Regular
+FullName:Helvetica LT Condensed Black
+MenuName:Helvetica LT CondensedBlack
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Black.ttf
+DataFormat:sfntData
+FileLength:68668
+FileModTime:1031275520
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Condensed Black
+NameArray:0,Win,1,Helvetica LT CondensedBlack
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-BoldObl
+FamilyName:Helvetica LT Condensed
+StyleName:Bold Italic
+FullName:Helvetica LT Condensed Bold Oblique
+MenuName:Helvetica LT Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Bold Oblique.ttf
+DataFormat:sfntData
+FileLength:57016
+FileModTime:1031275520
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Condensed Bold Oblique
+NameArray:0,Win,1,Helvetica LT Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-Bold
+FamilyName:Helvetica LT Condensed
+StyleName:Bold
+FullName:Helvetica LT Condensed Bold
+MenuName:Helvetica LT Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Bold.ttf
+DataFormat:sfntData
+FileLength:72504
+FileModTime:1031275518
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Condensed Bold
+NameArray:0,Win,1,Helvetica LT Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-LightObl
+FamilyName:Helvetica LT CondensedLight
+StyleName:Italic
+FullName:Helvetica LT Condensed Light Oblique
+MenuName:Helvetica LT CondensedLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Light Oblique.ttf
+DataFormat:sfntData
+FileLength:66856
+FileModTime:1031275518
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Condensed Light Oblique
+NameArray:0,Win,1,Helvetica LT CondensedLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-Light
+FamilyName:Helvetica LT CondensedLight
+StyleName:Regular
+FullName:Helvetica LT Condensed Light
+MenuName:Helvetica LT CondensedLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Light.ttf
+DataFormat:sfntData
+FileLength:93888
+FileModTime:1031275518
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Condensed Light
+NameArray:0,Win,1,Helvetica LT CondensedLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed
+FamilyName:Helvetica LT Condensed
+StyleName:Regular
+FullName:Helvetica LT Condensed Medium
+MenuName:Helvetica LT Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Medium.ttf
+DataFormat:sfntData
+FileLength:82532
+FileModTime:1031275518
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Condensed Medium
+NameArray:0,Win,1,Helvetica LT Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Condensed-Oblique
+FamilyName:Helvetica LT Condensed
+StyleName:Italic
+FullName:Helvetica LT Condensed Oblique
+MenuName:Helvetica LT Condensed
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:62404
+FileModTime:1031275518
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Condensed Oblique
+NameArray:0,Win,1,Helvetica LT Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-ExtraCompressed
+FamilyName:Helvetica LT ExtraCompressed
+StyleName:Regular
+FullName:Helvetica LT Extra Compressed
+MenuName:Helvetica LT ExtraCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Extra Compressed.ttf
+DataFormat:sfntData
+FileLength:54276
+FileModTime:1031275520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Extra Compressed
+NameArray:0,Win,1,Helvetica LT ExtraCompressed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-LightOblique
+FamilyName:Helvetica LT Light
+StyleName:Italic
+FullName:Helvetica LT Light Oblique
+MenuName:Helvetica LT Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Light Oblique.ttf
+DataFormat:sfntData
+FileLength:64988
+FileModTime:1031275518
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Light Oblique
+NameArray:0,Win,1,Helvetica LT Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Light
+FamilyName:Helvetica LT Light
+StyleName:Regular
+FullName:Helvetica LT Light
+MenuName:Helvetica LT Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Light.ttf
+DataFormat:sfntData
+FileLength:88232
+FileModTime:1031275518
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Light
+NameArray:0,Win,1,Helvetica LT Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Narrow-BoldOblique
+FamilyName:Helvetica LT Narrow
+StyleName:Bold Italic
+FullName:Helvetica LT Narrow Bold Oblique
+MenuName:Helvetica LT Narrow
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Narrow Bold Oblique.ttf
+DataFormat:sfntData
+FileLength:47352
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Narrow Bold Oblique
+NameArray:0,Win,1,Helvetica LT Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Narrow-Bold
+FamilyName:Helvetica LT Narrow
+StyleName:Bold
+FullName:Helvetica LT Narrow Bold
+MenuName:Helvetica LT Narrow
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Narrow Bold.ttf
+DataFormat:sfntData
+FileLength:70320
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Narrow Bold
+NameArray:0,Win,1,Helvetica LT Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Narrow-Oblique
+FamilyName:Helvetica LT Narrow
+StyleName:Italic
+FullName:Helvetica LT Narrow Oblique
+MenuName:Helvetica LT Narrow
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Narrow Oblique.ttf
+DataFormat:sfntData
+FileLength:60748
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Narrow Oblique
+NameArray:0,Win,1,Helvetica LT Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Narrow
+FamilyName:Helvetica LT Narrow
+StyleName:Regular
+FullName:Helvetica LT Narrow
+MenuName:Helvetica LT Narrow
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Narrow.ttf
+DataFormat:sfntData
+FileLength:72312
+FileModTime:1031275522
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Narrow
+NameArray:0,Win,1,Helvetica LT Narrow
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-Oblique
+FamilyName:Helvetica LT
+StyleName:Italic
+FullName:Helvetica LT Oblique
+MenuName:Helvetica LT
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Oblique.ttf
+DataFormat:sfntData
+FileLength:70216
+FileModTime:1031275522
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Oblique
+NameArray:0,Win,1,Helvetica LT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT-UltraCompressed
+FamilyName:Helvetica LT UltraCompressed
+StyleName:Regular
+FullName:Helvetica LT Ultra Compressed
+MenuName:Helvetica LT UltraCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT Ultra Compressed.ttf
+DataFormat:sfntData
+FileLength:61172
+FileModTime:1031275520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Ultra Compressed
+NameArray:0,Win,1,Helvetica LT UltraCompressed
+NameArray:0,Win,16,Helvetica LT UltraCompressed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaLT
+FamilyName:Helvetica LT
+StyleName:Regular
+FullName:Helvetica LT
+MenuName:Helvetica LT
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica LT.ttf
+DataFormat:sfntData
+FileLength:78008
+FileModTime:1031275522
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT
+NameArray:0,Win,1,Helvetica LT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-NarrowCE-Bold
+FamilyName:Helvetica Narrow CE
+StyleName:Bold
+FullName:Helvetica Narrow CE Bold
+MenuName:Helvetica Narrow CE
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Narrow CE Bold.ttf
+DataFormat:sfntData
+FileLength:51184
+FileModTime:987716056
+WeightClass:700
+WidthClass:4
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Narrow CE Bold
+NameArray:0,Win,1,Helvetica Narrow CE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-NarrowCE-Regular
+FamilyName:Helvetica Narrow CE
+StyleName:Regular
+FullName:Helvetica Narrow CE Regular
+MenuName:Helvetica Narrow CE
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Narrow CE Regular.ttf
+DataFormat:sfntData
+FileLength:51152
+FileModTime:987716056
+WeightClass:400
+WidthClass:4
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Narrow CE Regular
+NameArray:0,Win,1,Helvetica Narrow CE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCE-Thin
+FamilyName:Helvetica CE 35 Thin
+StyleName:Regular
+FullName:Helvetica Neue CE 35 Thin
+MenuName:Helvetica CE 35 Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Neue CE 35 Thin.ttf
+DataFormat:sfntData
+FileLength:60108
+FileModTime:987716006
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue CE 35 Thin
+NameArray:0,Win,1,Helvetica CE 35 Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCE-ThinItalic
+FamilyName:Helvetica CE 35 Thin
+StyleName:Italic
+FullName:Helvetica Neue CE 36 Thin Italic
+MenuName:Helvetica CE 35 Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Neue CE 36 Thin Italic.ttf
+DataFormat:sfntData
+FileLength:60988
+FileModTime:987716072
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue CE 36 Thin Italic
+NameArray:0,Win,1,Helvetica CE 35 Thin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCE-Roman
+FamilyName:Helvetica CE 55 Roman
+StyleName:Regular
+FullName:Helvetica Neue CE 55 Roman
+MenuName:Helvetica CE 55 Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Neue CE 55 Roman.ttf
+DataFormat:sfntData
+FileLength:64116
+FileModTime:987716006
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue CE 55 Roman
+NameArray:0,Win,1,Helvetica CE 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCE-Italic
+FamilyName:Helvetica CE 55 Roman
+StyleName:Italic
+FullName:Helvetica Neue CE 56 Italic
+MenuName:Helvetica CE 55 Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Neue CE 56 Italic.ttf
+DataFormat:sfntData
+FileLength:64736
+FileModTime:987716072
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue CE 56 Italic
+NameArray:0,Win,1,Helvetica CE 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCE-Bold
+FamilyName:Helvetica CE 55 Roman
+StyleName:Bold
+FullName:Helvetica Neue CE 75 Bold
+MenuName:Helvetica CE 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Neue CE 75 Bold.ttf
+DataFormat:sfntData
+FileLength:62644
+FileModTime:987716006
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue CE 75 Bold
+NameArray:0,Win,1,Helvetica CE 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaNeueCE-BoldItalic
+FamilyName:Helvetica CE 55 Roman
+StyleName:Bold Italic
+FullName:Helvetica Neue CE 76 Bold Italic
+MenuName:Helvetica CE 55 Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Neue CE 76 Bold Italic.ttf
+DataFormat:sfntData
+FileLength:63116
+FileModTime:987716072
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Neue CE 76 Bold Italic
+NameArray:0,Win,1,Helvetica CE 55 Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica_cyr-Oblique
+FamilyName:Helvetica
+StyleName:Oblique
+FullName:Helvetica Cyrillic Oblique
+MenuName:Helvetica
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Oblique
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Oblique_0.Ttf
+DataFormat:sfntData
+FileLength:47182
+FileModTime:946735198
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Cyrillic Oblique
+NameArray:0,Win,1,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaRoundedLT-BlackObl
+FamilyName:HelveticaRounded LT Bold
+StyleName:Bold Italic
+FullName:Helvetica Rounded LT Black Oblique
+MenuName:HelveticaRounded LT Bold
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Rounded LT Black Oblique.ttf
+DataFormat:sfntData
+FileLength:70412
+FileModTime:1031275522
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Rounded LT Black Oblique
+NameArray:0,Win,1,HelveticaRounded LT Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaRoundedLT-BoldCondObl
+FamilyName:HelveticaRounded LT BoldCn
+StyleName:Italic
+FullName:Helvetica Rounded LT Bold Condensed Oblique
+MenuName:HelveticaRounded LT BoldCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Rounded LT Bold Condensed Oblique.ttf
+DataFormat:sfntData
+FileLength:70460
+FileModTime:1031275520
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Rounded LT Bold Condensed Oblique
+NameArray:0,Win,1,HelveticaRounded LT BoldCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaRoundedLT-BoldCond
+FamilyName:HelveticaRounded LT BoldCn
+StyleName:Regular
+FullName:Helvetica Rounded LT Bold Condensed
+MenuName:HelveticaRounded LT BoldCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Rounded LT Bold Condensed.ttf
+DataFormat:sfntData
+FileLength:87856
+FileModTime:1031275522
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Rounded LT Bold Condensed
+NameArray:0,Win,1,HelveticaRounded LT BoldCn
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaTextbookLT-Bold
+FamilyName:HelveticaTextbook LT Roman
+StyleName:Bold
+FullName:Helvetica Textbook LT Bold
+MenuName:HelveticaTextbook LT Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Textbook LT Bold.ttf
+DataFormat:sfntData
+FileLength:52180
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Textbook LT Bold
+NameArray:0,Win,1,HelveticaTextbook LT Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaTextbookLT-BoldObl
+FamilyName:HelveticaTextbook LT Roman
+StyleName:Bold Italic
+FullName:Helvetica Textbook LT BoldObl
+MenuName:HelveticaTextbook LT Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Textbook LT BoldObl.ttf
+DataFormat:sfntData
+FileLength:53176
+FileModTime:1031275524
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Textbook LT BoldObl
+NameArray:0,Win,1,HelveticaTextbook LT Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaTextbookLT-Oblique
+FamilyName:HelveticaTextbook LT Roman
+StyleName:Italic
+FullName:Helvetica Textbook LT Oblique
+MenuName:HelveticaTextbook LT Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Textbook LT Oblique.ttf
+DataFormat:sfntData
+FileLength:54052
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica Textbook LT Oblique
+NameArray:0,Win,1,HelveticaTextbook LT Roman
+NameArray:0,Win,16,HelveticaTextbook LT Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HelveticaTextbookLT-Roman
+FamilyName:HelveticaTextbook LT Roman
+StyleName:Regular
+FullName:Helvetica Textbook LT Roman
+MenuName:HelveticaTextbook LT Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Helvetica Textbook LT Roman.ttf
+DataFormat:sfntData
+FileLength:53136
+FileModTime:1031275524
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica Textbook LT Roman
+NameArray:0,Win,1,HelveticaTextbook LT Roman
+NameArray:0,Win,16,HelveticaTextbook LT Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaInseratLTStd-Roman
+FamilyName:Helvetica Inserat LT Std
+StyleName:Roman
+FullName:Helvetica Inserat LT Std Roman
+MenuName:Helvetica Inserat LT Std
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Roman
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaInseratLTStd-Roman_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:39916
+FileModTime:1052801262
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica Inserat LT Std
+NameArray:0,Mac,4,Helvetica Inserat LT Std Roman
+NameArray:0,Win,1,Helvetica Inserat LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BlkCondObl
+FamilyName:Helvetica LT Std
+StyleName:Black Condensed Oblique
+FullName:Helvetica LT Std Black Condensed Oblique
+MenuName:Helvetica LT Std Cond Blk
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-BlkCondObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30448
+FileModTime:1052801264
+WeightClass:900
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Cond Blk Obl
+NameArray:0,Mac,4,Helvetica LT Std Black Condensed Oblique
+NameArray:0,Win,1,Helvetica LT Std Cond Blk
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BlkCond
+FamilyName:Helvetica LT Std
+StyleName:Black Condensed
+FullName:Helvetica LT Std Black Condensed
+MenuName:Helvetica LT Std Cond Blk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-BlkCond_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29636
+FileModTime:1052801264
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std Cond Blk
+NameArray:0,Mac,4,Helvetica LT Std Black Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond Blk
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BlkObl
+FamilyName:Helvetica LT Std
+StyleName:Black Oblique
+FullName:Helvetica LT Std Black Oblique
+MenuName:Helvetica LT Std Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-BlkObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30304
+FileModTime:1052801264
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Black Obl
+NameArray:0,Mac,4,Helvetica LT Std Black Oblique
+NameArray:0,Win,1,Helvetica LT Std Black
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Blk
+FamilyName:Helvetica LT Std
+StyleName:Black
+FullName:Helvetica LT Std Black
+MenuName:Helvetica LT Std Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Blk_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29260
+FileModTime:1052801264
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Black
+NameArray:0,Win,1,Helvetica LT Std Black
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BoldCondObl
+FamilyName:Helvetica LT Std
+StyleName:Bold Condensed Oblique
+FullName:Helvetica LT Std Bold Condensed Oblique
+MenuName:Helvetica LT Std Cond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-BoldCondObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31308
+FileModTime:1052801264
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Cond Bold Obl
+NameArray:0,Mac,4,Helvetica LT Std Bold Condensed Oblique
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BoldCond
+FamilyName:Helvetica LT Std
+StyleName:Bold Condensed
+FullName:Helvetica LT Std Bold Condensed
+MenuName:Helvetica LT Std Cond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-BoldCond_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29984
+FileModTime:1052801264
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std Cond Bold
+NameArray:0,Mac,4,Helvetica LT Std Bold Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-BoldObl
+FamilyName:Helvetica LT Std
+StyleName:Bold Oblique
+FullName:Helvetica LT Std Bold Oblique
+MenuName:Helvetica LT Std
+StyleBits:3
+FamilyNameNative:
+StyleNameNative:Bold Oblique
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-BoldObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45316
+FileModTime:1052801264
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Bold Obl
+NameArray:0,Mac,4,Helvetica LT Std Bold Oblique
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Bold
+FamilyName:Helvetica LT Std
+StyleName:Bold
+FullName:Helvetica LT Std Bold
+MenuName:Helvetica LT Std
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45340
+FileModTime:1052801264
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Bold
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Comp
+FamilyName:Helvetica LT Std
+StyleName:Compressed
+FullName:Helvetica LT Std Compressed
+MenuName:Helvetica LT Std Compressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Comp_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27584
+FileModTime:1052801264
+WeightClass:400
+WidthClass:2
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Compressed
+NameArray:0,Win,1,Helvetica LT Std Compressed
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-CondObl
+FamilyName:Helvetica LT Std
+StyleName:Condensed Oblique
+FullName:Helvetica LT Std Condensed Oblique
+MenuName:Helvetica LT Std Cond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-CondObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30236
+FileModTime:1052801264
+WeightClass:400
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Cond Obl
+NameArray:0,Mac,4,Helvetica LT Std Condensed Oblique
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Cond
+FamilyName:Helvetica LT Std
+StyleName:Condensed
+FullName:Helvetica LT Std Condensed
+MenuName:Helvetica LT Std Cond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Cond_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29240
+FileModTime:1052801264
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std Cond
+NameArray:0,Mac,4,Helvetica LT Std Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-ExtraComp
+FamilyName:Helvetica LT Std
+StyleName:Extra Compressed
+FullName:Helvetica LT Std Extra Compressed
+MenuName:Helvetica LT Std ExtCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-ExtraComp_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27140
+FileModTime:1052801264
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std ExtCompressed
+NameArray:0,Mac,4,Helvetica LT Std Extra Compressed
+NameArray:0,Win,1,Helvetica LT Std ExtCompressed
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-FractionsBd
+FamilyName:Helvetica LT Std
+StyleName:Fractions Bold
+FullName:Helvetica LT Std Fractions Bold
+MenuName:Helvetica LT Std Fractions
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-FractionsBd_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+FileLength:19660
+FileModTime:1052801264
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Fractions Bold
+NameArray:0,Win,1,Helvetica LT Std Fractions
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Fractions
+FamilyName:Helvetica LT Std
+StyleName:Fractions
+FullName:Helvetica LT Std Fractions
+MenuName:Helvetica LT Std Fractions
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Fractions_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+FileLength:19484
+FileModTime:1052801264
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Fractions
+NameArray:0,Win,1,Helvetica LT Std Fractions
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-LightCondObl
+FamilyName:Helvetica LT Std
+StyleName:Light Condensed Oblique
+FullName:Helvetica LT Std Light Condensed Oblique
+MenuName:Helvetica LT Std Cond Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-LightCondObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29660
+FileModTime:1052801264
+WeightClass:300
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Cond Light Obl
+NameArray:0,Mac,4,Helvetica LT Std Light Condensed Oblique
+NameArray:0,Win,1,Helvetica LT Std Cond Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-LightCond
+FamilyName:Helvetica LT Std
+StyleName:Light Condensed
+FullName:Helvetica LT Std Light Condensed
+MenuName:Helvetica LT Std Cond Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-LightCond_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28236
+FileModTime:1052801264
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std Cond Light
+NameArray:0,Mac,4,Helvetica LT Std Light Condensed
+NameArray:0,Win,1,Helvetica LT Std Cond Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-LightObl
+FamilyName:Helvetica LT Std
+StyleName:Light Oblique
+FullName:Helvetica LT Std Light Oblique
+MenuName:Helvetica LT Std Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-LightObl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29140
+FileModTime:1052801264
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,Helvetica LT Std Light Oblique
+NameArray:0,Win,1,Helvetica LT Std Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Light
+FamilyName:Helvetica LT Std
+StyleName:Light
+FullName:Helvetica LT Std Light
+MenuName:Helvetica LT Std Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Light_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27844
+FileModTime:1052801264
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Helvetica LT Std Light
+NameArray:0,Win,1,Helvetica LT Std Light
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Obl
+FamilyName:Helvetica LT Std
+StyleName:Oblique
+FullName:Helvetica LT Std Oblique
+MenuName:Helvetica LT Std
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Oblique
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Obl_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45292
+FileModTime:1052801264
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Helvetica LT Std Obl
+NameArray:0,Mac,4,Helvetica LT Std Oblique
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-Roman
+FamilyName:Helvetica LT Std
+StyleName:Roman
+FullName:Helvetica LT Std Roman
+MenuName:Helvetica LT Std
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Roman
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-Roman_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45168
+FileModTime:1052801264
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std
+NameArray:0,Mac,4,Helvetica LT Std Roman
+NameArray:0,Win,1,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaLTStd-UltraComp
+FamilyName:Helvetica LT Std
+StyleName:Ultra Compressed
+FullName:Helvetica LT Std Ultra Compressed
+MenuName:Helvetica LT Std UltCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaLTStd-UltraComp_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27060
+FileModTime:1052801264
+WeightClass:400
+WidthClass:1
+AngleClass:0
+NameArray:0,Mac,18,Helvetica LT Std UltCompressed
+NameArray:0,Mac,4,Helvetica LT Std Ultra Compressed
+NameArray:0,Win,1,Helvetica LT Std UltCompressed
+NameArray:0,Win,16,Helvetica LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed Oblique
+FullName:Helvetica Neue LT Std 77 Bold Condensed Oblique
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BdCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30432
+FileModTime:1052801262
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 77 Bold Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdCn
+FamilyName:Helvetica Neue LT Std
+StyleName:77 Bold Condensed
+FullName:Helvetica Neue LT Std 77 Bold Condensed
+MenuName:HelveticaNeueLT Std Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BdCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29268
+FileModTime:1052801262
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 77 Bold Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdExO
+FamilyName:Helvetica Neue LT Std
+StyleName:73 Bold Extended Oblique
+FullName:Helvetica Neue LT Std 73 Bold Extended Oblique
+MenuName:HelveticaNeueLT Std Extended
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BdExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29388
+FileModTime:1052801262
+WeightClass:700
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Ext Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 73 Bold Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Extended
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdEx
+FamilyName:Helvetica Neue LT Std
+StyleName:73 Bold Extended
+FullName:Helvetica Neue LT Std 73 Bold Extended
+MenuName:HelveticaNeueLT Std Extended
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BdEx_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28216
+FileModTime:1052801262
+WeightClass:700
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 73 Bold Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Extended
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BdOu
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold Outline
+FullName:Helvetica Neue LT Std 75 Bold Outline
+MenuName:HelveticaNeueLT Std Bold Outln
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BdOu_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:38780
+FileModTime:1052801262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold Outln
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold Outline
+NameArray:0,Win,1,HelveticaNeueLT Std Bold Outln
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+FullName:Helvetica Neue LT Std 75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-Bd_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28240
+FileModTime:1052801264
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:97 Black Condensed Oblique
+FullName:Helvetica Neue LT Std 97 Black Condensed Oblique
+MenuName:HelveticaNeueLT Std Blk Cn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BlkCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30696
+FileModTime:1052801262
+WeightClass:900
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 97 Black Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Blk Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkCn
+FamilyName:Helvetica Neue LT Std
+StyleName:97 Black Condensed
+FullName:Helvetica Neue LT Std 97 Black Condensed
+MenuName:HelveticaNeueLT Std Blk Cn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BlkCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29984
+FileModTime:1052801262
+WeightClass:900
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 97 Black Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Blk Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkExO
+FamilyName:Helvetica Neue LT Std
+StyleName:93 Black Extended Oblique
+FullName:Helvetica Neue LT Std 93 Black Extended Oblique
+MenuName:HelveticaNeueLT Std Blk Ext
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BlkExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30516
+FileModTime:1052801262
+WeightClass:900
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk Ext Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 93 Black Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Blk Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-BlkEx
+FamilyName:Helvetica Neue LT Std
+StyleName:93 Black Extended
+FullName:Helvetica Neue LT Std 93 Black Extended
+MenuName:HelveticaNeueLT Std Blk Ext
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-BlkEx_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29240
+FileModTime:1052801262
+WeightClass:900
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 93 Black Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Blk Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Blk
+FamilyName:Helvetica Neue LT Std
+StyleName:95 Black
+FullName:Helvetica Neue LT Std 95 Black
+MenuName:HelveticaNeueLT Std Blk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-Blk_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29700
+FileModTime:1052801262
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Blk
+NameArray:0,Mac,4,Helvetica Neue LT Std 95 Black
+NameArray:0,Win,1,HelveticaNeueLT Std Blk
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ExO
+FamilyName:Helvetica Neue LT Std
+StyleName:53 Extended Oblique
+FullName:Helvetica Neue LT Std 53 Extended Oblique
+MenuName:HelveticaNeueLT Std Ext
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-ExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28936
+FileModTime:1052801262
+WeightClass:400
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Ext Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 53 Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Ex
+FamilyName:Helvetica Neue LT Std
+StyleName:53 Extended
+FullName:Helvetica Neue LT Std 53 Extended
+MenuName:HelveticaNeueLT Std Ext
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-Ex_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27616
+FileModTime:1052801262
+WeightClass:400
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 53 Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:87 Heavy Condensed Oblique
+FullName:Helvetica Neue LT Std 87 Heavy Condensed Oblique
+MenuName:HelveticaNeueLT Std Med Cn
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-HvCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31240
+FileModTime:1052801262
+WeightClass:750
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 87 Heavy Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Med Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvCn
+FamilyName:Helvetica Neue LT Std
+StyleName:87 Heavy Condensed
+FullName:Helvetica Neue LT Std 87 Heavy Condensed
+MenuName:HelveticaNeueLT Std Med Cn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-HvCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30464
+FileModTime:1052801262
+WeightClass:750
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 87 Heavy Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Med Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvExO
+FamilyName:Helvetica Neue LT Std
+StyleName:83 Heavy Extended Oblique
+FullName:Helvetica Neue LT Std 83 Heavy Extended Oblique
+MenuName:HelveticaNeueLT Std Med Ext
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-HvExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30312
+FileModTime:1052801262
+WeightClass:750
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy Ext Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 83 Heavy Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Med Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-HvEx
+FamilyName:Helvetica Neue LT Std
+StyleName:83 Heavy Extended
+FullName:Helvetica Neue LT Std 83 Heavy Extended
+MenuName:HelveticaNeueLT Std Med Ext
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-HvEx_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28888
+FileModTime:1052801262
+WeightClass:750
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 83 Heavy Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Med Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Hv
+FamilyName:Helvetica Neue LT Std
+StyleName:85 Heavy
+FullName:Helvetica Neue LT Std 85 Heavy
+MenuName:HelveticaNeueLT Std Med
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-Hv_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29092
+FileModTime:1052801262
+WeightClass:750
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Hvy
+NameArray:0,Mac,4,Helvetica Neue LT Std 85 Heavy
+NameArray:0,Win,1,HelveticaNeueLT Std Med
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:47 Light Condensed Oblique
+FullName:Helvetica Neue LT Std 47 Light Condensed Oblique
+MenuName:HelveticaNeueLT Std Lt Cn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-LtCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28800
+FileModTime:1052801264
+WeightClass:300
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 47 Light Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Lt Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtCn
+FamilyName:Helvetica Neue LT Std
+StyleName:47 Light Condensed
+FullName:Helvetica Neue LT Std 47 Light Condensed
+MenuName:HelveticaNeueLT Std Lt Cn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-LtCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27776
+FileModTime:1052801264
+WeightClass:300
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 47 Light Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Lt Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtExO
+FamilyName:Helvetica Neue LT Std
+StyleName:43 Light Extended Oblique
+FullName:Helvetica Neue LT Std 43 Light Extended Oblique
+MenuName:HelveticaNeueLT Std Lt Ext
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-LtExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29280
+FileModTime:1052801264
+WeightClass:300
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Ext Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 43 Light Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Lt Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtEx
+FamilyName:Helvetica Neue LT Std
+StyleName:43 Light Extended
+FullName:Helvetica Neue LT Std 43 Light Extended
+MenuName:HelveticaNeueLT Std Lt Ext
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-LtEx_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27784
+FileModTime:1052801264
+WeightClass:300
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 43 Light Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Lt Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+FullName:Helvetica Neue LT Std 45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-Lt_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28120
+FileModTime:1052801264
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt
+NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:37 Thin Condensed Oblique
+FullName:Helvetica Neue LT Std 37 Thin Condensed Oblique
+MenuName:HelveticaNeueLT Std Thin Cn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-ThCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30564
+FileModTime:1052801264
+WeightClass:250
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 37 Thin Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Thin Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThCn
+FamilyName:Helvetica Neue LT Std
+StyleName:37 Thin Condensed
+FullName:Helvetica Neue LT Std 37 Thin Condensed
+MenuName:HelveticaNeueLT Std Thin Cn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-ThCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29292
+FileModTime:1052801264
+WeightClass:250
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 37 Thin Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std Thin Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThExO
+FamilyName:Helvetica Neue LT Std
+StyleName:33 Thin Extended Oblique
+FullName:Helvetica Neue LT Std 33 Thin Extended Oblique
+MenuName:HelveticaNeueLT Std Thin Ext
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-ThExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28792
+FileModTime:1055447772
+WeightClass:250
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin Ext Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 33 Thin Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std Thin Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-ThEx
+FamilyName:Helvetica Neue LT Std
+StyleName:33 Thin Extended
+FullName:Helvetica Neue LT Std 33 Thin Extended
+MenuName:HelveticaNeueLT Std Thin Ext
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-ThEx_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27468
+FileModTime:1055447772
+WeightClass:250
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 33 Thin Extended
+NameArray:0,Win,1,HelveticaNeueLT Std Thin Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Th
+FamilyName:Helvetica Neue LT Std
+StyleName:35 Thin
+FullName:Helvetica Neue LT Std 35 Thin
+MenuName:HelveticaNeueLT Std Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-Th_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28124
+FileModTime:1052801264
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std Thin
+NameArray:0,Mac,4,Helvetica Neue LT Std 35 Thin
+NameArray:0,Win,1,HelveticaNeueLT Std Thin
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtCnO
+FamilyName:Helvetica Neue LT Std
+StyleName:27 Ultra Light Condensed Oblique
+FullName:Helvetica Neue LT Std 27 Ultra Light Condensed Oblique
+MenuName:HelveticaNeueLT Std UltLt Cn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-UltLtCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30024
+FileModTime:1052801264
+WeightClass:275
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std UltLt Cn Ob
+NameArray:0,Mac,4,Helvetica Neue LT Std 27 Ultra Light Condensed Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std UltLt Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtCn
+FamilyName:Helvetica Neue LT Std
+StyleName:27 Ultra Light Condensed
+FullName:Helvetica Neue LT Std 27 Ultra Light Condensed
+MenuName:HelveticaNeueLT Std UltLt Cn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-UltLtCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:29024
+FileModTime:1052801264
+WeightClass:275
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std UltLt Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 27 Ultra Light Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std UltLt Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtExO
+FamilyName:Helvetica Neue LT Std
+StyleName:23 Ultra Light Extended Oblique
+FullName:Helvetica Neue LT Std 23 Ultra Light Extended Oblique
+MenuName:HelveticaNeueLT Std UltLt Ext
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-UltLtExO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28900
+FileModTime:1052801264
+WeightClass:275
+WidthClass:7
+AngleClass:1
+NameArray:0,Mac,18,HelveticaNeueLT Std UltLt ExtOb
+NameArray:0,Mac,4,Helvetica Neue LT Std 23 Ultra Light Extended Oblique
+NameArray:0,Win,1,HelveticaNeueLT Std UltLt Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLtEx
+FamilyName:Helvetica Neue LT Std
+StyleName:23 Ultra Light Extended
+FullName:Helvetica Neue LT Std 23 Ultra Light Extended
+MenuName:HelveticaNeueLT Std UltLt Ext
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-UltLtEx_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27588
+FileModTime:1052801264
+WeightClass:275
+WidthClass:7
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std UltLt Ext
+NameArray:0,Mac,4,Helvetica Neue LT Std 23 Ultra Light Extended
+NameArray:0,Win,1,HelveticaNeueLT Std UltLt Ext
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-UltLt
+FamilyName:Helvetica Neue LT Std
+StyleName:25 Ultra Light
+FullName:Helvetica Neue LT Std 25 Ultra Light
+MenuName:HelveticaNeueLT Std UltLt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-UltLt_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27684
+FileModTime:1052801264
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std UltLt
+NameArray:0,Mac,4,Helvetica Neue LT Std 25 Ultra Light
+NameArray:0,Win,1,HelveticaNeueLT Std UltLt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-XBlkCn
+FamilyName:Helvetica Neue LT Std
+StyleName:107 Extra Black Condensed
+FullName:Helvetica Neue LT Std 107 Extra Black Condensed
+MenuName:HelveticaNeueLT Std ExtBlk Cn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaNeueLTStd-XBlkCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30592
+FileModTime:1055447772
+WeightClass:950
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaNeueLT Std ExtBlk Cn
+NameArray:0,Mac,4,Helvetica Neue LT Std 107 Extra Black Condensed
+NameArray:0,Win,1,HelveticaNeueLT Std ExtBlk Cn
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRoundedLTStd-BdCnO
+FamilyName:Helvetica Rounded LT Std
+StyleName:Bold Condensed Oblique
+FullName:Helvetica Rounded LT Std Bold Condensed Oblique
+MenuName:HelveticaRounded LT Std BdCn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaRoundedLTStd-BdCnO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32992
+FileModTime:1052801264
+WeightClass:700
+WidthClass:3
+AngleClass:1
+NameArray:0,Mac,18,HelveticaRounded LT Std BdCnObl
+NameArray:0,Mac,4,Helvetica Rounded LT Std Bold Condensed Oblique
+NameArray:0,Win,1,HelveticaRounded LT Std BdCn
+NameArray:0,Win,16,Helvetica Rounded LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRoundedLTStd-BdCn
+FamilyName:Helvetica Rounded LT Std
+StyleName:Bold Condensed
+FullName:Helvetica Rounded LT Std Bold Condensed
+MenuName:HelveticaRounded LT Std BdCn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaRoundedLTStd-BdCn_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30952
+FileModTime:1052801264
+WeightClass:700
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,18,HelveticaRounded LT Std BdCn
+NameArray:0,Mac,4,Helvetica Rounded LT Std Bold Condensed
+NameArray:0,Win,1,HelveticaRounded LT Std BdCn
+NameArray:0,Win,16,Helvetica Rounded LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRoundedLTStd-BdO
+FamilyName:Helvetica Rounded LT Std
+StyleName:Bold Oblique
+FullName:Helvetica Rounded LT Std Bold Oblique
+MenuName:HelveticaRounded LT Std Bd
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaRoundedLTStd-BdO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32936
+FileModTime:1052801264
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,HelveticaRounded LT Std BdObl
+NameArray:0,Mac,4,Helvetica Rounded LT Std Bold Oblique
+NameArray:0,Win,1,HelveticaRounded LT Std Bd
+NameArray:0,Win,16,Helvetica Rounded LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRoundedLTStd-Bd
+FamilyName:Helvetica Rounded LT Std
+StyleName:Bold
+FullName:Helvetica Rounded LT Std Bold
+MenuName:HelveticaRounded LT Std Bd
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaRoundedLTStd-Bd_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:30548
+FileModTime:1052801264
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaRounded LT Std Bd
+NameArray:0,Mac,4,Helvetica Rounded LT Std Bold
+NameArray:0,Win,1,HelveticaRounded LT Std Bd
+NameArray:0,Win,16,Helvetica Rounded LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRoundedLTStd-Black
+FamilyName:Helvetica Rounded LT Std
+StyleName:Black
+FullName:Helvetica Rounded LT Std Black
+MenuName:HelveticaRounded LT Std Blk
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaRoundedLTStd-Black_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:31116
+FileModTime:1052801264
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,HelveticaRounded LT Std Blk
+NameArray:0,Mac,4,Helvetica Rounded LT Std Black
+NameArray:0,Win,1,HelveticaRounded LT Std Blk
+NameArray:0,Win,16,Helvetica Rounded LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaRoundedLTStd-BlkO
+FamilyName:Helvetica Rounded LT Std
+StyleName:Black Oblique
+FullName:Helvetica Rounded LT Std Black Oblique
+MenuName:HelveticaRounded LT Std Blk
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HelveticaRoundedLTStd-BlkO_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:32868
+FileModTime:1052801264
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,HelveticaRounded LT Std BlkObl
+NameArray:0,Mac,4,Helvetica Rounded LT Std Black Oblique
+NameArray:0,Win,1,HelveticaRounded LT Std Blk
+NameArray:0,Win,16,Helvetica Rounded LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondBlack
+FamilyName:HeliosCondBlack
+StyleName:Regular
+FullName:HeliosCondBlack
+MenuName:HeliosCondBlack
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_ch_.ttf
+DataFormat:sfntData
+FileLength:53856
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HeliosCondBlack
+NameArray:0,Win,1,HeliosCondBlack
+NameArray:0,Win,16,HeliosCondBlack
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondBlack-Italic
+FamilyName:HeliosCondBlack
+StyleName:Regular
+FullName:HeliosCondBlack Italic
+MenuName:HeliosCondBlack
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_ch__o.ttf
+DataFormat:sfntData
+FileLength:52616
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HeliosCondBlack Italic
+NameArray:0,Win,1,HeliosCondBlack
+NameArray:0,Win,16,HeliosCondBlack
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondLight
+FamilyName:HeliosCondLight
+StyleName:Regular
+FullName:HeliosCondLight
+MenuName:HeliosCondLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cl_.ttf
+DataFormat:sfntData
+FileLength:73724
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HeliosCondLight
+NameArray:0,Win,1,HeliosCondLight
+NameArray:0,Win,16,HeliosCondLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondLight-Italic
+FamilyName:HeliosCondLight
+StyleName:Regular
+FullName:HeliosCondLight Italic
+MenuName:HeliosCondLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cl__o.ttf
+DataFormat:sfntData
+FileLength:77072
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HeliosCondLight Italic
+NameArray:0,Win,1,HeliosCondLight
+NameArray:0,Win,16,HeliosCondLight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondBold
+FamilyName:HeliosCond
+StyleName:Bold
+FullName:HeliosCond Bold
+MenuName:HeliosCond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cn_.ttf
+DataFormat:sfntData
+FileLength:31080
+FileModTime:1066419498
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HeliosCond Bold
+NameArray:0,Win,1,HeliosCond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCond-Bold-Italic
+FamilyName:HeliosCond
+StyleName:Regular
+FullName:HeliosCond Bold Italic
+MenuName:HeliosCond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cn_bo.ttf
+DataFormat:sfntData
+FileLength:57936
+FileModTime:1043394654
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HeliosCond Bold Italic
+NameArray:0,Win,1,HeliosCond
+NameArray:0,Win,16,HeliosCond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCond
+FamilyName:HeliosCond
+StyleName:Regular
+FullName:HeliosCond
+MenuName:HeliosCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HE_CN__.TTF
+DataFormat:sfntData
+FileLength:33544
+FileModTime:1066419498
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HeliosCond
+NameArray:0,Win,1,HeliosCond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCond-Italic
+FamilyName:HeliosCond
+StyleName:Regular
+FullName:HeliosCond Italic
+MenuName:HeliosCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cn__o.ttf
+DataFormat:sfntData
+FileLength:66868
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HeliosCond Italic
+NameArray:0,Win,1,HeliosCond
+NameArray:0,Win,16,HeliosCond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondThin
+FamilyName:HeliosCondThin
+StyleName:Regular
+FullName:HeliosCondThin
+MenuName:HeliosCondThin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cth.ttf
+DataFormat:sfntData
+FileLength:66356
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HeliosCondThin
+NameArray:0,Win,1,HeliosCondThin
+NameArray:0,Win,16,HeliosCondThin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HeliosCondThin-Italic
+FamilyName:HeliosCondThin
+StyleName:Regular
+FullName:HeliosCondThin Italic
+MenuName:HeliosCondThin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\He_cth_o.ttf
+DataFormat:sfntData
+FileLength:64756
+FileModTime:1043394654
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,4,HeliosCondThin Italic
+NameArray:0,Win,1,HeliosCondThin
+NameArray:0,Win,16,HeliosCondThin
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaInserat-Roman
+FamilyName:Helvetica Inserat
+StyleName:Medium
+FullName:Helvetica Inserat
+MenuName:Helvetica Inserat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HIR____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30442
+FileModTime:768788880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaInserat-Roman
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HIR____.PFM
+FileLength:1053
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaInseratCyr-Upright
+FamilyName:Helvetica Inserat Cyrillic
+StyleName:Upright
+FullName:Helvetica Inserat Cyrillic Upright
+MenuName:Helvetica Inserat Cyr Upright
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Upright
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HIYU___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:40227
+FileModTime:748119936
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaInseratCyr-Upright
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HIYU___.PFM
+FileLength:2086
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigCondObl
+FamilyName:Helvetica Neue
+StyleName:27 Ultra Light Cond Oblique
+FullName:Helvetica 27 Ultra Light Condensed Oblique
+MenuName:HelveticaNeue UltraLigCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLAO____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:36095
+FileModTime:657578938
+WeightClass:100
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLAO____0.PFM
+FileLength:1329
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigExtObl
+FamilyName:Helvetica Neue
+StyleName:23 Ultra Light Extended Oblique
+FullName:Helvetica 23 Ultra Light Extended Oblique
+MenuName:HelveticaNeue UltraLigExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLAVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37739
+FileModTime:655612494
+WeightClass:100
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLAVO___0.PFM
+FileLength:1051
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigExt
+FamilyName:Helvetica Neue
+StyleName:23 Ultra Light Extended
+FullName:Helvetica 23 Ultra Light Extended
+MenuName:HelveticaNeue UltraLigExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLAV___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28138
+FileModTime:655655688
+WeightClass:100
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLAV___.PFM
+FileLength:1048
+FileModTime:788144460
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLigCond
+FamilyName:Helvetica Neue
+StyleName:27 Ultra Light Condensed
+FullName:Helvetica 27 Ultra Light Condensed
+MenuName:HelveticaNeue UltraLigCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLA_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27310
+FileModTime:657578868
+WeightClass:100
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLigCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLA_____0.PFM
+FileLength:1326
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldCondObl
+FamilyName:Helvetica Neue
+StyleName:77 Bold Condensed Oblique
+FullName:Helvetica 77 Bold Condensed Oblique
+MenuName:HelveticaNeue Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:39070
+FileModTime:657579668
+WeightClass:700
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBCO___0.PFM
+FileLength:1218
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldCond
+FamilyName:Helvetica Neue
+StyleName:77 Bold Condensed
+FullName:Helvetica 77 Bold Condensed
+MenuName:HelveticaNeue Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28975
+FileModTime:657579628
+WeightClass:700
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBC____0.PFM
+FileLength:1215
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldItalic
+FamilyName:Helvetica Neue
+StyleName:76 Bold Italic
+FullName:Helvetica 76 Bold Italic
+MenuName:Helvetica 55 Roman
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBI____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29278
+FileModTime:745389334
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldItalic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBI____0.PFM
+FileLength:1060
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackItalic
+FamilyName:Helvetica Neue
+StyleName:96 Black Italic
+FullName:Helvetica 96 Black Italic
+MenuName:Helvetica 95 Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBLI___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30260
+FileModTime:745388926
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackItalic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBLI___0.PFM
+FileLength:1101
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Black
+FamilyName:Helvetica Neue
+StyleName:95 Black
+FullName:Helvetica 95 Black
+MenuName:Helvetica 95 Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBL____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30559
+FileModTime:745388916
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Black
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBL____0.PFM
+FileLength:1099
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldOutline
+FamilyName:Helvetica Neue
+StyleName:75 Bold Outline
+FullName:Helvetica 75 Bold Outline
+MenuName:HelveticaNeue BoldOutline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBOU__.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30663
+FileModTime:670555790
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldOutline
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBOU__.PFM
+FileLength:1360
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldExtObl
+FamilyName:Helvetica Neue
+StyleName:73 Bold Extended Oblique
+FullName:Helvetica 73 Bold Extended Oblique
+MenuName:HelveticaNeue Extended
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38979
+FileModTime:655618312
+WeightClass:700
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBVO___0.PFM
+FileLength:1052
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BoldExt
+FamilyName:Helvetica Neue
+StyleName:73 Bold Extended
+FullName:Helvetica 73 Bold Extended
+MenuName:HelveticaNeue Extended
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBV____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29135
+FileModTime:655618304
+WeightClass:700
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BoldExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLBV____0.PFM
+FileLength:1049
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:75 Bold
+FullName:Helvetica 75 Bold
+MenuName:Helvetica 55 Roman
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLB_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28166
+FileModTime:745389324
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Bold
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLB_____0.PFM
+FileLength:1086
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-CondensedObl
+FamilyName:Helvetica Neue
+StyleName:57 Condensed Oblique
+FullName:Helvetica 57 Condensed Oblique
+MenuName:HelveticaNeue Condensed
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLCO____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38375
+FileModTime:657579574
+WeightClass:400
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-CondensedObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLCO____0.PFM
+FileLength:1211
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Condensed
+FamilyName:Helvetica Neue
+StyleName:57 Condensed
+FullName:Helvetica 57 Condensed
+MenuName:HelveticaNeue Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLC_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28464
+FileModTime:657579536
+WeightClass:400
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Condensed
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLC_____0.PFM
+FileLength:1208
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyCondObl
+FamilyName:Helvetica Neue
+StyleName:87 Heavy Condensed Oblique
+FullName:Helvetica 87 Heavy Condensed Oblique
+MenuName:HelveticaNeue MediumCond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:43479
+FileModTime:657580676
+WeightClass:850
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHCO___0.PFM
+FileLength:1344
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyCond
+FamilyName:Helvetica Neue
+StyleName:87 Heavy Condensed
+FullName:Helvetica 87 Heavy Condensed
+MenuName:HelveticaNeue MediumCond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:31225
+FileModTime:657580642
+WeightClass:850
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHC____0.PFM
+FileLength:1341
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyItalic
+FamilyName:Helvetica Neue
+StyleName:86 Heavy Italic
+FullName:Helvetica 86 Heavy Italic
+MenuName:Helvetica 65 Medium
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHI____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30064
+FileModTime:745389858
+WeightClass:850
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyItalic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHI____0.PFM
+FileLength:1086
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyExtObl
+FamilyName:Helvetica Neue
+StyleName:83 Heavy Extended Oblique
+FullName:Helvetica 83 Heavy Extended Oblique
+MenuName:HelveticaNeue MediumExt
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:41083
+FileModTime:654832570
+WeightClass:850
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHVO___0.PFM
+FileLength:1054
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-HeavyExt
+FamilyName:Helvetica Neue
+StyleName:83 Heavy Extended
+FullName:Helvetica 83 Heavy Extended
+MenuName:HelveticaNeue MediumExt
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHV____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30200
+FileModTime:654832554
+WeightClass:850
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-HeavyExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLHV____0.PFM
+FileLength:1051
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Heavy
+FamilyName:Helvetica Neue
+StyleName:85 Heavy
+FullName:Helvetica 85 Heavy
+MenuName:Helvetica 65 Medium
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLH_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29337
+FileModTime:745389848
+WeightClass:850
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Heavy
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLH_____0.PFM
+FileLength:1100
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Italic
+FamilyName:Helvetica Neue
+StyleName:56 Italic
+FullName:Helvetica 56 Italic
+MenuName:Helvetica 55 Roman
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLI_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27900
+FileModTime:745389314
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Italic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLI_____0.PFM
+FileLength:1068
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ExtBlackCondObl
+FamilyName:Helvetica Neue
+StyleName:107 Extra Black Cond Oblique
+FullName:Helvetica 107 Extra Black Condensed Oblique
+MenuName:HelveticaNeue ExtBlackCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLJO____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:45647
+FileModTime:657579162
+WeightClass:950
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ExtBlackCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLJO____0.PFM
+FileLength:1437
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ExtBlackCond
+FamilyName:Helvetica Neue
+StyleName:107 Extra Black Condensed
+FullName:Helvetica 107 Extra Black Condensed
+MenuName:HelveticaNeue ExtBlackCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLJ_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32423
+FileModTime:657579116
+WeightClass:950
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ExtBlackCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLJ_____0.PFM
+FileLength:1434
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightCondObl
+FamilyName:Helvetica Neue
+StyleName:47 Light Condensed Oblique
+FullName:Helvetica 47 Light Condensed Oblique
+MenuName:HelveticaNeue LightCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38122
+FileModTime:657580542
+WeightClass:300
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLCO___0.PFM
+FileLength:1195
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightCond
+FamilyName:Helvetica Neue
+StyleName:47 Light Condensed
+FullName:Helvetica 47 Light Condensed
+MenuName:HelveticaNeue LightCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28336
+FileModTime:657580504
+WeightClass:300
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLC____0.PFM
+FileLength:1192
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightItalic
+FamilyName:Helvetica Neue
+StyleName:46 Light Italic
+FullName:Helvetica 46 Light Italic
+MenuName:Helvetica 45 Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLI____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28615
+FileModTime:745389818
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightItalic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLI____0.PFM
+FileLength:1065
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightExtObl
+FamilyName:Helvetica Neue
+StyleName:43 Light Extended Oblique
+FullName:Helvetica 43 Light Extended Oblique
+MenuName:HelveticaNeue LightExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38953
+FileModTime:654832504
+WeightClass:300
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLVO___0.PFM
+FileLength:1045
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-LightExt
+FamilyName:Helvetica Neue
+StyleName:43 Light Extended
+FullName:Helvetica 43 Light Extended
+MenuName:HelveticaNeue LightExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLV____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28962
+FileModTime:654832488
+WeightClass:300
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-LightExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLLV____0.PFM
+FileLength:1042
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Light
+FamilyName:Helvetica Neue
+StyleName:45 Light
+FullName:Helvetica 45 Light
+MenuName:Helvetica 45 Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLL_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28056
+FileModTime:745389808
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Light
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLL_____0.PFM
+FileLength:1099
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumCondObl
+FamilyName:Helvetica Neue
+StyleName:67 Medium Condensed Oblique
+FullName:Helvetica 67 Medium Condensed Oblique
+MenuName:HelveticaNeue MediumCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38826
+FileModTime:657580620
+WeightClass:500
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMCO___0.PFM
+FileLength:1405
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumCond
+FamilyName:Helvetica Neue
+StyleName:67 Medium Condensed
+FullName:Helvetica 67 Medium Condensed
+MenuName:HelveticaNeue MediumCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28923
+FileModTime:657580572
+WeightClass:500
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMC____0.PFM
+FileLength:1402
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumItalic
+FamilyName:Helvetica Neue
+StyleName:66 Medium Italic
+FullName:Helvetica 66 Medium Italic
+MenuName:Helvetica 65 Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMI____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29084
+FileModTime:745389838
+WeightClass:500
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumItalic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMI____0.PFM
+FileLength:1063
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumExtObl
+FamilyName:Helvetica Neue
+StyleName:63 Medium Extended Oblique
+FullName:Helvetica 63 Medium Extended Oblique
+MenuName:HelveticaNeue MediumExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:38524
+FileModTime:654832540
+WeightClass:500
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMVO___0.PFM
+FileLength:1047
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-MediumExt
+FamilyName:Helvetica Neue
+StyleName:63 Medium Extended
+FullName:Helvetica 63 Medium Extended
+MenuName:HelveticaNeue MediumExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMV____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28687
+FileModTime:654832522
+WeightClass:500
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-MediumExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLMV____0.PFM
+FileLength:1044
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:65 Medium
+FullName:Helvetica 65 Medium
+MenuName:Helvetica 65 Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLM_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28589
+FileModTime:745389828
+WeightClass:500
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Medium
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLM_____0.PFM
+FileLength:1093
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Roman
+FamilyName:Helvetica Neue
+StyleName:55 Roman
+FullName:Helvetica 55 Roman
+MenuName:Helvetica 55 Roman
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLR_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27372
+FileModTime:745389304
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Roman
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLR_____0.PFM
+FileLength:1091
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinCondObl
+FamilyName:Helvetica Neue
+StyleName:37 Thin Condensed Oblique
+FullName:Helvetica 37 Thin Condensed Oblique
+MenuName:HelveticaNeue ThinCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37337
+FileModTime:657579484
+WeightClass:200
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTCO___0.PFM
+FileLength:1329
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinCond
+FamilyName:Helvetica Neue
+StyleName:37 Thin Condensed
+FullName:Helvetica 37 Thin Condensed
+MenuName:HelveticaNeue ThinCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27988
+FileModTime:657579450
+WeightClass:200
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTC____0.PFM
+FileLength:1326
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinItalic
+FamilyName:Helvetica Neue
+StyleName:36 Thin Italic
+FullName:Helvetica 36 Thin Italic
+MenuName:Helvetica 35 Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTI____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28858
+FileModTime:745389296
+WeightClass:200
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinItalic
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTI____0.PFM
+FileLength:1083
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinExtObl
+FamilyName:Helvetica Neue
+StyleName:33 Thin Extended Oblique
+FullName:Helvetica 33 Thin Extended Oblique
+MenuName:HelveticaNeue ThinExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37665
+FileModTime:655618288
+WeightClass:200
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTVO___0.PFM
+FileLength:1051
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ThinExt
+FamilyName:Helvetica Neue
+StyleName:33 Thin Extended
+FullName:Helvetica 33 Thin Extended
+MenuName:HelveticaNeue ThinExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTV____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28217
+FileModTime:655618284
+WeightClass:200
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ThinExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLTV____0.PFM
+FileLength:1048
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Thin
+FamilyName:Helvetica Neue
+StyleName:35 Thin
+FullName:Helvetica 35 Thin
+MenuName:Helvetica 35 Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLT_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:29394
+FileModTime:745389286
+WeightClass:200
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Thin
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLT_____0.PFM
+FileLength:1041
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLightItal
+FamilyName:Helvetica Neue
+StyleName:26 Ultra Light Italic
+FullName:Helvetica 26 Ultra Light Italic
+MenuName:Helvetica 25 UltraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLULI___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28685
+FileModTime:745388906
+WeightClass:100
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLightItal
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLULI___0.PFM
+FileLength:1085
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-UltraLight
+FamilyName:Helvetica Neue
+StyleName:25 Ultra Light
+FullName:Helvetica 25 Ultra Light
+MenuName:Helvetica 25 UltraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLUL____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28140
+FileModTime:745388896
+WeightClass:100
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-UltraLight
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLUL____0.PFM
+FileLength:1049
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-ExtendedObl
+FamilyName:Helvetica Neue
+StyleName:53 Extended Oblique
+FullName:Helvetica 53 Extended Oblique
+MenuName:HelveticaNeue Extended
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLVO____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:37505
+FileModTime:655618300
+WeightClass:400
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-ExtendedObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLVO____0.PFM
+FileLength:1045
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Extended
+FamilyName:Helvetica Neue
+StyleName:53 Extended
+FullName:Helvetica 53 Extended
+MenuName:HelveticaNeue Extended
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLV_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:28141
+FileModTime:655618294
+WeightClass:400
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-Extended
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLV_____0.PFM
+FileLength:1042
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackCondObl
+FamilyName:Helvetica Neue
+StyleName:97 Black Condensed Oblique
+FullName:Helvetica 97 Black Condensed Oblique
+MenuName:HelveticaNeue BlackCond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZCO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:45448
+FileModTime:657579050
+WeightClass:900
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackCondObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZCO___0.PFM
+FileLength:1247
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackCond
+FamilyName:Helvetica Neue
+StyleName:97 Black Condensed
+FullName:Helvetica 97 Black Condensed
+MenuName:HelveticaNeue BlackCond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZC____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32306
+FileModTime:657578984
+WeightClass:900
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackCond
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZC____0.PFM
+FileLength:1244
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackExtObl
+FamilyName:Helvetica Neue
+StyleName:93 Black Extended Oblique
+FullName:Helvetica 93 Black Extended Oblique
+MenuName:HelveticaNeue BlackExt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZVO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:45177
+FileModTime:655612508
+WeightClass:900
+WidthClass:7
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackExtObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZVO___0.PFM
+FileLength:1049
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-BlackExt
+FamilyName:Helvetica Neue
+StyleName:93 Black Extended
+FullName:Helvetica 93 Black Extended
+MenuName:HelveticaNeue BlackExt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZV____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32483
+FileModTime:655612500
+WeightClass:900
+WidthClass:7
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaNeue-BlackExt
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HLZV____0.PFM
+FileLength:1046
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-BlackOblique
+FamilyName:Helvetica
+StyleName:Black Oblique
+FullName:Helvetica Black Oblique
+MenuName:Helvetica Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVBLO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:50861
+FileModTime:919917840
+WeightClass:900
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-BlackOblique
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVBLO___0.PFM
+FileLength:1111
+FileModTime:925480800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Black
+FamilyName:Helvetica
+StyleName:Black
+FullName:Helvetica Black
+MenuName:Helvetica Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVBL____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:35379
+FileModTime:919917840
+WeightClass:900
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Black
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVBL____0.PFM
+FileLength:1104
+FileModTime:925480800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-Black
+FamilyName:Helvetica
+StyleName:Black Condensed
+FullName:Helvetica Condensed Black
+MenuName:Helvetica CondensedBlack
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCBL___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:36905
+FileModTime:940468200
+WeightClass:900
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-Black
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCBL___0.PFM
+FileLength:2119
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-BoldObl
+FamilyName:Helvetica
+StyleName:Bold Condensed Oblique
+FullName:Helvetica Condensed Bold Oblique
+MenuName:Helvetica Condensed
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCBO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:49776
+FileModTime:940468200
+WeightClass:700
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-BoldObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCBO___0.PFM
+FileLength:2168
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-Bold
+FamilyName:Helvetica
+StyleName:Bold Condensed
+FullName:Helvetica Condensed Bold
+MenuName:Helvetica Condensed
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCB____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:35256
+FileModTime:940468200
+WeightClass:700
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-Bold
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCB____0.PFM
+FileLength:2165
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-Oblique
+FamilyName:Helvetica
+StyleName:Condensed Oblique
+FullName:Helvetica Condensed Oblique
+MenuName:Helvetica Condensed
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCDO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:47325
+FileModTime:940468200
+WeightClass:400
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-Oblique
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCDO___0.PFM
+FileLength:1788
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-LightObl
+FamilyName:Helvetica
+StyleName:Light Condensed Oblique
+FullName:Helvetica Condensed Light Oblique
+MenuName:Helvetica CondensedLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCLO___0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:46081
+FileModTime:940468200
+WeightClass:300
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-LightObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCLO___0.PFM
+FileLength:2166
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-Light
+FamilyName:Helvetica
+StyleName:Light Condensed
+FullName:Helvetica Condensed Light
+MenuName:Helvetica CondensedLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCL____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:32692
+FileModTime:940468200
+WeightClass:300
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-Light
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCL____0.PFM
+FileLength:2163
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed-BlackObl
+FamilyName:Helvetica
+StyleName:Black Condensed Oblique
+FullName:Helvetica Condensed Black Oblique
+MenuName:Helvetica CondensedBlack
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCO____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:53183
+FileModTime:940468200
+WeightClass:900
+WidthClass:3
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed-BlackObl
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVCO____0.PFM
+FileLength:2122
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Condensed
+FamilyName:Helvetica
+StyleName:Medium Condensed
+FullName:Helvetica Condensed Medium
+MenuName:Helvetica Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVC_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:33745
+FileModTime:940468200
+WeightClass:400
+WidthClass:3
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Condensed
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVC_____0.PFM
+FileLength:1780
+FileModTime:940446000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-ExtraCompressed
+FamilyName:Helvetica
+StyleName:Extra Compressed
+FullName:Helvetica Extra Compressed
+MenuName:Helvetica ExtraCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVEK___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27255
+FileModTime:766877220
+WeightClass:900
+WidthClass:1
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-ExtraCompressed
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVEK___.PFM
+FileLength:1060
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Compressed
+FamilyName:Helvetica
+StyleName:Compressed
+FullName:Helvetica Compressed
+MenuName:Helvetica Compressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVK____.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:27002
+FileModTime:766877220
+WeightClass:900
+WidthClass:2
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Compressed
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVK____.PFM
+FileLength:1062
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-LightOblique
+FamilyName:Helvetica
+StyleName:Light Oblique
+FullName:Helvetica Light Oblique
+MenuName:Helvetica Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVLO___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:42751
+FileModTime:919917840
+WeightClass:300
+WidthClass:5
+AngleClass:1
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-LightOblique
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVLO___.PFM
+FileLength:1103
+FileModTime:925480800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Light
+FamilyName:Helvetica
+StyleName:Light
+FullName:Helvetica Light
+MenuName:Helvetica Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVL_____0.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:30687
+FileModTime:919917840
+WeightClass:300
+WidthClass:5
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-Light
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVL_____0.PFM
+FileLength:1096
+FileModTime:925480800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-UltraCompressed
+FamilyName:Helvetica
+StyleName:Ultra Compressed
+FullName:Helvetica Ultra Compressed
+MenuName:Helvetica UltraCompressed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVUK___.PFB
+DataFormat:Plain
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:26976
+FileModTime:766877220
+WeightClass:800
+WidthClass:1
+AngleClass:0
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:Helvetica-UltraCompressed
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVUK___.PFM
+FileLength:1064
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaCyr-BoldInclined
+FamilyName:Helvetica Cyrillic
+StyleName:Bold Inclined
+FullName:Helvetica Cyrillic Bold Inclined
+MenuName:Helvetica Cyr Upright
+StyleBits:3
+FamilyNameNative:
+StyleNameNative:Bold Inclined
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYBI__.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:39447
+FileModTime:748119924
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaCyr-BoldInclined
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYBI__.PFM
+FileLength:3160
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaCyr-Bold
+FamilyName:Helvetica Cyrillic
+StyleName:Bold
+FullName:Helvetica Cyrillic Bold
+MenuName:Helvetica Cyr Upright
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYB___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:39736
+FileModTime:748119912
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaCyr-Bold
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYB___.PFM
+FileLength:3140
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaCyr-Inclined
+FamilyName:Helvetica Cyrillic
+StyleName:Inclined
+FullName:Helvetica Cyrillic Inclined
+MenuName:Helvetica Cyr Upright
+StyleBits:1
+FamilyNameNative:
+StyleNameNative:Inclined
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYI___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:39236
+FileModTime:748119900
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaCyr-Inclined
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYI___.PFM
+FileLength:3352
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaCyr-Upright
+FamilyName:Helvetica Cyrillic
+StyleName:Upright
+FullName:Helvetica Cyrillic Upright
+MenuName:Helvetica Cyr Upright
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Upright
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYU___.PFB
+DataFormat:Plain
+UsesStandardEncoding:no
+isCFF:no
+FileLength:38967
+FileModTime:748119888
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:PFM
+FontName:HelveticaCyr-Upright
+NumMMAxes:0
+OutlineFileName:C:\xampp\htdocs\cinema\Font\HVYU___.PFM
+FileLength:3387
+FileModTime:788101260
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MovieFilmstrip
+FamilyName:Arial
+StyleName:Black
+FullName:Movie Filmstrip
+MenuName:Movie Filmstrip
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\Movie Filmstrip.ttf
+DataFormat:sfntData
+FileLength:91836
+FileModTime:1278318026
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Movie Filmstrip
+NameArray:0,Win,1,Movie Filmstrip
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SegoePrint-Bold
+FamilyName:Segoe Print
+StyleName:Bold
+FullName:Segoe Print Bold
+MenuName:Segoe Print
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\segoeprb_0.ttf
+DataFormat:sfntData
+FileLength:172092
+FileModTime:1244771792
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Segoe Print Bold
+NameArray:0,Win,1,Segoe Print
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SegoePrint
+FamilyName:Segoe Print
+StyleName:Regular
+FullName:Segoe Print
+MenuName:Segoe Print
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\segoepr_0.ttf
+DataFormat:sfntData
+FileLength:172732
+FileModTime:1244771792
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Segoe Print
+NameArray:0,Win,1,Segoe Print
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\cinema\Font\vjs.eot
+FileModTime:1431036610
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\cinema\Font\vjs.svg
+FileModTime:1431036610
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:icomoon
+FamilyName:icomoon
+StyleName:Regular
+FullName:icomoon
+MenuName:icomoon
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\xampp\htdocs\cinema\Font\vjs.ttf
+DataFormat:sfntData
+FileLength:4640
+FileModTime:1431036610
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,
+NameArray:0,Win,1,icomoon
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\xampp\htdocs\cinema\Font\vjs.woff
+FileModTime:1431036610
+%EndFont
+
